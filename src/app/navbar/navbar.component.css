@@ -1,0 +1,8 @@
+.dropdown-toggle{
+    cursor: pointer;
+}
+
+#navbar{
+    position: sticky;
+    margin-bottom: 15px;
+}
